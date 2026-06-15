@@ -8,6 +8,7 @@ First Year CS student @ Mapúa University
 |------|-------------|-------|
 | [une-odeur-v2](https://github.com/wetzuu/une-odeur-v2) | Local fragrance discovery and review site | React |
 | [une-odeur](https://github.com/wetzuu/une-odeur) | Early version of une-odeur, with Astro as its stack | Astro |
+| [BahayniKuya](https://github.com/wetzuu/Bahay-ni-Kuya) | Database Management Project for Comp Sci First Year | Typescript |
 | [HomeQuest](https://github.com/wetzuu/HomeQuest) | Small ```OOP``` requirement project created for Real Estate Management   | Java |
 | [minamiyuki.bot](https://github.com/wetzuu/minamiyuki.bot) | Personal Discord Bot made through ```discord.js``` | JavaScript |
 

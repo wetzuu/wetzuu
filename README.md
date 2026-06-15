@@ -1,4 +1,4 @@
-First Year CS student @ Mapúa University — oos oos oos
+First Year CS student @ Mapúa University
 
 ---
 
@@ -6,7 +6,8 @@ First Year CS student @ Mapúa University — oos oos oos
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [une-odeur](https://github.com/wetzuu/une-odeur) | Local fragrance discovery and review site | Astro → React |
+| [une-odeur-v2](https://github.com/wetzuu/une-odeur-v2) | Local fragrance discovery and review site | React |
+| [une-odeur](https://github.com/wetzuu/une-odeur) | Early version of une-odeur, with Astro as its stack | Astro |
 | [HomeQuest](https://github.com/wetzuu/HomeQuest) | Small ```OOP``` requirement project created for Real Estate Management   | Java |
 | [minamiyuki.bot](https://github.com/wetzuu/minamiyuki.bot) | Personal Discord Bot made through ```discord.js``` | JavaScript |
 

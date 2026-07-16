@@ -6,6 +6,7 @@ First Year CS student @ Mapúa University
 
 | Repo | Description | Stack |
 |------|-------------|-------|
+| [penumbra](https://github.com/aeyvmor/penumbra) | Project for 2026 Cintana Alliance AI Challenge | C# |
 | [une-odeur-v2](https://github.com/wetzuu/une-odeur-v2) | Local fragrance discovery and review site | React |
 | [une-odeur](https://github.com/wetzuu/une-odeur) | Early version of une-odeur, with Astro as its stack | Astro |
 | [BahayniKuya](https://github.com/wetzuu/Bahay-ni-Kuya) | Database Management Project for Comp Sci First Year | Typescript |

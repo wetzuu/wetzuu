@@ -47,10 +47,12 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| [**Penumbra**](https://github.com/aeyvmor/penumbra) | Project Submission for 2026 Cintana Alliance AI Challenge | C# |
 | [**Buhay ni Kuya**](https://github.com/wetzuu/BahayniKuya) | Boarding-house / rental management system — tenants, rooms, leases, payments & maintenance tracking with a dashboard | TypeScript · React · Express · Prisma |
 | [**une-odeur-v2**](https://github.com/wetzuu/une-odeur-v2) | Fragrance discovery platform (rebuilt) | React · JavaScript |
 | [**HomeQuest**](https://github.com/wetzuu/HomeQuest) | Real-estate management system showcasing OOP principles | Java |
 | [**minamiyuki.bot**](https://github.com/wetzuu/minamiyuki.bot) | Discord bot for community automation and personal-use | JavaScript · discord.js |
+
 
 ---
 
